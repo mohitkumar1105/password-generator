@@ -1,0 +1,14 @@
+#copyMsg{
+visibility: hidden;
+transition: all 250ms ease-in-out;
+transform-origin: bottom;
+left: 190px; 
+top: -20px;
+color: yellowgreen; 
+font-weight: bold;
+position: absolute;
+font-size: 10px;
+
+
+}
+
